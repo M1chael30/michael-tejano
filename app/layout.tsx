@@ -14,6 +14,9 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Michael Tejano",
   description: "Portfolio website of Michael Tejano, a full stack junior developer.",
+  icons: {
+    icon: "/img/profile/my_profile.jpg",
+  },
   keywords: [
     "Michael Tejano",
     "Full Stack Developer",
