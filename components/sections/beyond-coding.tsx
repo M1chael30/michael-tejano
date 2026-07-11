@@ -13,7 +13,7 @@ export default function BeyondCoding() {
                 </div>
             </CardHeader>
             <CardContent>
-                <p className="font-light text-xs sm:text-sm">
+                <p className="font-light text-sm">
                     When not writing code,
                     I enjoy staying active and entertained.
                     I'm passionate about
