@@ -54,7 +54,7 @@ export default function TechStack() {
                 <CardContent>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                         {techStack.map((stack, index) => (
-                            <Card key={index} className='p-0 ring-0 rounded-0'>
+                            <Card key={index} className='p-0 rounded-none shadow-none border-none ring-0'>
                                 <CardHeader className='p-1'>
                                     <div className="flex items-center gap-2">
                                         <stack.icon className="text-muted-foreground" size={18} />
