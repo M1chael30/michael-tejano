@@ -12,7 +12,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Michael Tejano | Full Stack Junior Developer",
+  title: "Michael Tejano",
   description: "Portfolio website of Michael Tejano, a full stack junior developer.",
   keywords: [
     "Michael Tejano",
